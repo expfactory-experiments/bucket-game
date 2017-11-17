@@ -8,7 +8,7 @@
                      "Vanessa Sochat"
                     ],
     "time":10,
-    "instruction": "Follow the instructions to play the game.",
+    "instructions": "Follow the instructions to play the game.",
     "description": "Guess the number of items in the bucket.",
     "url": "https://www.github.com/expfactory-experiments/bucket-game"
 }
