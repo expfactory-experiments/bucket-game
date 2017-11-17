@@ -1,0 +1,14 @@
+{
+    "name": "Bucket Game",
+    "template":"phaser",
+    "exp_id": "bucket-game",
+    "contributors": [
+                     "Jonathan Nicholas",
+                     "Christian Battista",
+                     "Vanessa Sochat"
+                    ],
+    "time":10,
+    "instruction": "Follow the instructions to play the game.",
+    "description": "Guess the number of items in the bucket.",
+    "url": "https://www.github.com/expfactory-experiments/bucket-game"
+}
